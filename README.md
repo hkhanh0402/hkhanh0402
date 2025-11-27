@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hkhanh0402) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hkhanh0402) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanhhn0402@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hkhanh0402) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanhhn0402@gmail.com) 
 
 # 💻 Tech Stack:
 # 📎 Languages
