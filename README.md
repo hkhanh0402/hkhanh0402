@@ -13,12 +13,14 @@
 
 # 🎯 About Me
 
+```
 const hoangKhanh = {
     location: "Vietnam 🇻🇳",
     role: "Backend Developer Intern",
     currentStatus: "Student & Learning Enthusiast",
     interests: ["Backend Development", "API Design", "Database Management"],
 };
+```
 
 ---
 
