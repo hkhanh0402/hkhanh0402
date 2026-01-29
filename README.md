@@ -14,46 +14,10 @@
 # 🎯 About Me
 
 const hoangKhanh = {
-  name: "Hoang Nam Khanh",
-  location: "Vietnam 🇻🇳",
-  role: "Backend Developer Intern",
-  status: "Student & Learning Enthusiast",
-
-  currentlyWorkingOn: [
-    "Backend Projects with Java",
-    "RESTful API Development using Spring Boot"
-  ],
-
-  currentlyLearning: [
-    "System Design",
-    "Microservices Architecture",
-    "Cloud Technologies"
-  ],
-
-  interests: [
-    "Backend Development",
-    "API Design",
-    "Database Optimization"
-  ],
-
-  collaboration: "Open Source Backend Projects",
-
-  techStack: [
-    "Java",
-    "Spring Boot",
-    "Spring MVC",
-    "Spring Security",
-    "JPA / Hibernate",
-    "SQL"
-  ],
-
-  contact: {
-    email: "1onelyheart.luv@gmail.com"
-  },
-
-  lifeGoal: "Build scalable, maintainable, and efficient backend systems",
-
-  funFact: "I trust console.log() less, but I still use it when debugging 😄"
+    location: "Vietnam 🇻🇳",
+    role: "Backend Developer Intern",
+    currentStatus: "Student & Learning Enthusiast",
+    interests: ["Backend Development", "API Design", "Database Management"],
 };
 
 ---
